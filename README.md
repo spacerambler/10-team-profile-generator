@@ -2,6 +2,7 @@
 
 Steps to create:
 // set up package json
+// Test using Jest
 // Team Member class to include email, github username, name, and ID
 // set up manager class
 // set up engineer class
